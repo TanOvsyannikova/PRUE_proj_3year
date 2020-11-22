@@ -1,0 +1,12 @@
+/Users/tan/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.deps.json
+/Users/tan/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.runtimeconfig.json
+/Users/tan/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.runtimeconfig.dev.json
+/Users/tan/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.dll
+/Users/tan/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.pdb
+/Users/tan/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.csprojAssemblyReference.cache
+/Users/tan/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.AssemblyInfoInputs.cache
+/Users/tan/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.AssemblyInfo.cs
+/Users/tan/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.csproj.CoreCompileInputs.cache
+/Users/tan/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.dll
+/Users/tan/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.pdb
+/Users/tan/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.genruntimeconfig.cache
