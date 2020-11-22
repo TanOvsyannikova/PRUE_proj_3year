@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tan/Projects/1_seminar/1_seminar/1_seminar.csproj": {}
+  },
+  "projects": {
+    "/Users/tan/Projects/1_seminar/1_seminar/1_seminar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tan/Projects/1_seminar/1_seminar/1_seminar.csproj",
+        "projectName": "1_seminar",
+        "projectPath": "/Users/tan/Projects/1_seminar/1_seminar/1_seminar.csproj",
+        "packagesPath": "/Users/tan/.nuget/packages/",
+        "outputPath": "/Users/tan/Projects/1_seminar/1_seminar/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

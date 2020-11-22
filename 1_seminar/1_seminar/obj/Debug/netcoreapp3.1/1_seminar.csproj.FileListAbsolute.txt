@@ -1,0 +1,12 @@
+/Users/tan/Projects/1_seminar/1_seminar/obj/Debug/netcoreapp3.1/1_seminar.csprojAssemblyReference.cache
+/Users/tan/Projects/1_seminar/1_seminar/obj/Debug/netcoreapp3.1/1_seminar.AssemblyInfoInputs.cache
+/Users/tan/Projects/1_seminar/1_seminar/obj/Debug/netcoreapp3.1/1_seminar.AssemblyInfo.cs
+/Users/tan/Projects/1_seminar/1_seminar/obj/Debug/netcoreapp3.1/1_seminar.csproj.CoreCompileInputs.cache
+/Users/tan/Projects/1_seminar/1_seminar/bin/Debug/netcoreapp3.1/1_seminar.deps.json
+/Users/tan/Projects/1_seminar/1_seminar/bin/Debug/netcoreapp3.1/1_seminar.runtimeconfig.json
+/Users/tan/Projects/1_seminar/1_seminar/bin/Debug/netcoreapp3.1/1_seminar.runtimeconfig.dev.json
+/Users/tan/Projects/1_seminar/1_seminar/bin/Debug/netcoreapp3.1/1_seminar.dll
+/Users/tan/Projects/1_seminar/1_seminar/bin/Debug/netcoreapp3.1/1_seminar.pdb
+/Users/tan/Projects/1_seminar/1_seminar/obj/Debug/netcoreapp3.1/1_seminar.dll
+/Users/tan/Projects/1_seminar/1_seminar/obj/Debug/netcoreapp3.1/1_seminar.pdb
+/Users/tan/Projects/1_seminar/1_seminar/obj/Debug/netcoreapp3.1/1_seminar.genruntimeconfig.cache
